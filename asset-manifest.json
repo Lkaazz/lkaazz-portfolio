@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lkaazz-portfolio/static/css/main.21847420.css",
-    "main.js": "/lkaazz-portfolio/static/js/main.9f518552.js",
+    "main.css": "/lkaazz-portfolio/static/css/main.809a43d1.css",
+    "main.js": "/lkaazz-portfolio/static/js/main.b0354138.js",
     "static/media/robo1.png": "/lkaazz-portfolio/static/media/robo1.d14f29a0291dccb4cec3.png",
     "static/media/robo4.png": "/lkaazz-portfolio/static/media/robo4.dd1f771c37b67acbee48.png",
     "static/media/robo2.png": "/lkaazz-portfolio/static/media/robo2.4e513000e511161d6014.png",
@@ -23,13 +23,14 @@
     "static/media/pixelify-sans-latin-ext-400-normal.woff": "/lkaazz-portfolio/static/media/pixelify-sans-latin-ext-400-normal.c98becbccb3168a6af99.woff",
     "static/media/pixelify-sans-latin-ext-400-normal.woff2": "/lkaazz-portfolio/static/media/pixelify-sans-latin-ext-400-normal.dfae3e103da8093e149b.woff2",
     "static/media/pixelify-sans-cyrillic-400-normal.woff": "/lkaazz-portfolio/static/media/pixelify-sans-cyrillic-400-normal.9524b40f5c2716799821.woff",
+    "static/media/cursor.cur": "/lkaazz-portfolio/static/media/cursor.bc34df14455fc291ee06.cur",
     "static/media/pixelify-sans-cyrillic-400-normal.woff2": "/lkaazz-portfolio/static/media/pixelify-sans-cyrillic-400-normal.1c373fa344d126ddd067.woff2",
     "index.html": "/lkaazz-portfolio/index.html",
-    "main.21847420.css.map": "/lkaazz-portfolio/static/css/main.21847420.css.map",
-    "main.9f518552.js.map": "/lkaazz-portfolio/static/js/main.9f518552.js.map"
+    "main.809a43d1.css.map": "/lkaazz-portfolio/static/css/main.809a43d1.css.map",
+    "main.b0354138.js.map": "/lkaazz-portfolio/static/js/main.b0354138.js.map"
   },
   "entrypoints": [
-    "static/css/main.21847420.css",
-    "static/js/main.9f518552.js"
+    "static/css/main.809a43d1.css",
+    "static/js/main.b0354138.js"
   ]
 }
